@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Eu me chamo <a href="https://www.linkedin.com/in/elaine-oliveira-449985162/"><i>Elaine Oliveira</i></a>😊</h1>
-  <p align="center">Sou estagiária de Ti e estudo Desenvolvimento Web no meu tempo livre, aprendi HTML, CSS, Python, Mysql e estou iniciando os estudo em Django
+  <p align="center">Sou estagiária em Desenvolvimento Web e estudo no meu tempo livre, aprendi HTML, CSS, typescript, Python, C# e Sql server
 
 
 <div align="center">
