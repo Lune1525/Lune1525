@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá! Eu me chamo Elaine Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi! I'm Elaine Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
 
@@ -17,9 +17,9 @@
 <div align="center">
   ✨ About Me :
   
-  - Sou estagiária em Desenvolvimento Full-stack na empresa Copart
+  - I work as a Junior Full-stack Developer at Copart's company
 
-  - Estudo HTML, CSS, Typescript, React, C#, Python, Sql Server
+  - I've been studying HTML, CSS, Typescript, React js, C#, Python, Sql Server and .Net Core
   
   🛠️ Languages & Tools:
   <div>
