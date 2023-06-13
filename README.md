@@ -31,12 +31,3 @@
   </div>
 </div>
 
----
-
-<div align="center">
-  <a href="https://github.com/Lune1525">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lune1525&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lune1525&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
