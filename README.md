@@ -17,7 +17,7 @@
 <div align="center">
   ✨ About Me :
   
-  - I work as a Junior Full-stack Developer at Copart's company
+  - I work as a Junior Developer at Logical IT company
 
   - I've been studying HTML, CSS, Typescript, React js, C#, Python, Sql Server and .Net Core
   
